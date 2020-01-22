@@ -1,0 +1,7 @@
+E:\Bootcamp\Pembelajaran .NET\BangunDatar\BangunDatar\bin\Debug\BangunDatar.exe.config
+E:\Bootcamp\Pembelajaran .NET\BangunDatar\BangunDatar\bin\Debug\BangunDatar.exe
+E:\Bootcamp\Pembelajaran .NET\BangunDatar\BangunDatar\bin\Debug\BangunDatar.pdb
+E:\Bootcamp\Pembelajaran .NET\BangunDatar\BangunDatar\obj\Debug\BangunDatar.csprojAssemblyReference.cache
+E:\Bootcamp\Pembelajaran .NET\BangunDatar\BangunDatar\obj\Debug\BangunDatar.csproj.CoreCompileInputs.cache
+E:\Bootcamp\Pembelajaran .NET\BangunDatar\BangunDatar\obj\Debug\BangunDatar.exe
+E:\Bootcamp\Pembelajaran .NET\BangunDatar\BangunDatar\obj\Debug\BangunDatar.pdb

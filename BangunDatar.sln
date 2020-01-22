@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BangunDatar", "BangunDatar\BangunDatar.csproj", "{8DE96E28-9F42-458F-A158-A1FCE8F70E04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DE96E28-9F42-458F-A158-A1FCE8F70E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE96E28-9F42-458F-A158-A1FCE8F70E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DE96E28-9F42-458F-A158-A1FCE8F70E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DE96E28-9F42-458F-A158-A1FCE8F70E04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EA49E43-C2DF-4BD3-ACA7-4AA8BAECEC5A}
+	EndGlobalSection
+EndGlobal
